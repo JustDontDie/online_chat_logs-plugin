@@ -1,0 +1,8 @@
+name: OnlineChatReports
+author: JustDontDie
+version: 0.1
+main: jddcode.onlinechatreports.Main
+
+commands:
+  chatreport:
+    description: Report chat offences and get a link to their chat logs

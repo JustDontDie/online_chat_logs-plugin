@@ -1,0 +1,9 @@
+database-info:
+  address: ""
+  port: 3306
+  username: ""
+  password: ""
+  db-name: ""
+
+website-url: ""
+limit: 50
